@@ -2,7 +2,11 @@ You may temporary link to images together with their plain-text descriptions her
 
 Eventually, please sort the correspondings files to their respective folders.
 
+---
+
 ### icons
+
+---
 
 ### avatars
 
@@ -10,11 +14,19 @@ A small light blue images with Constellation logo and rounded corners:
 
 [https://spec-rationality.com/wp-content/uploads/2017/12/constellation-icon.png](https://spec-rationality.com/wp-content/uploads/2017/12/constellation-icon.png)
 
+---
+
 ### banners
+
+---
 
 ### wallpapers
 
+---
+
 ### abstract-formats
+
+---
 
 ### photo-formats
 
@@ -24,11 +36,19 @@ A large blurry image with the Constellation logo:
 
 ### vector-formats
 
+---
+
 ### animations
+
+---
 
 ### product-screenshots
 
+---
+
 ### diagrams-and-infographics
+
+---
 
 ### team-and-contributors
 
