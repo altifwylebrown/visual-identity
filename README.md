@@ -23,17 +23,18 @@ with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also 
 
 | folder  | content class |
 | ------------- | ------------- |
-| **icons** | Tiny images |
+| **abstract-formats** | Branding with artificial flat backgrounds | 
+| **animations** | Branding with gifs, etc. |
 | **avatars** | Square profile images | 
 | **banners** | Website banners |
-| **wallpapers** | Desktop wallpapers | 
-| **abstract-formats** | Branding with artificial flat backgrounds | 
-| **photo-formats** | Branding with photo-type images |
-| **vector-formats** | Branding with vector graphics |
-| **animations** | Branding with gifs, etc. |
-| **product-screenshots** | Presentation material from websites, user interfaces, etc. |
 | **diagrams-and-infographics** | Roadmaps, algorithmic flowcharts, etc. |
+| **humor** | Pictures that aren't all that serious |
+| **icons** | Tiny images |
+| **photo-formats** | Branding with photo-type images |
+| **product-screenshots** | Presentation material from websites, user interfaces, etc. |
 | **team-and-contributors** | Profiles, mugshots, photos of individuals |
+| **vector-formats** | Branding with vector graphics |
+| **wallpapers** | Desktop wallpapers | 
 
 More content can be found in the 
 [awesome-constellation](https://github.com/Constellation-Labs/awesome-constellation) 
