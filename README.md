@@ -18,11 +18,9 @@ Please only commit to this repository with images that are owned by you, the pub
 * The logo graph is comprised of three 
 [hexagons](https://en.wikipedia.org/wiki/Hexagon) 
 with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also explained in [this clip](https://www.youtube.com/watch?v=XbGvJpL5OTM&index=1&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH).
-* Colors used in our branding are: 
+* Colors used in our branding are: (tbd)
 
-(tbd)
-
-### :open_file_folder:Content classes in this repository:
+### :open_file_folder:Content classes in this repository
 
 | folder  | content class |
 | ------------- | ------------- |
@@ -38,6 +36,7 @@ with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also 
 | **team-and-contributors** | Profiles, mugshots, photos of individuals |
 | **vector-formats** | Branding with vector graphics |
 | **wallpapers** | Desktop wallpapers | 
+
 
 ---
 
