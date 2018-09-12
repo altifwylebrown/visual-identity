@@ -3,9 +3,16 @@
 <p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
 <p align="center">:art:The image resource repository for Constellation's branding.</p>
 
-Here you find branding items with the Constellation logo and lettering, as well as product screenshots, graphics and mugshots. Below you find the content descriptions that fit into the categories. More content can be found in the 
-[awesome-constellation](https://github.com/Constellation-Labs/awesome-constellation) 
-resource list. 
+In this repository holds Constellation branding images with the logo and lettering, as well as product screenshots, graphics and mugshots. For the different categories, you find content descriptions for all the folders in the table below. 
+
+### :two_hearts:Contributing
+If you create awesome visual Constellation related content, consider posting it on the 
+[**Orion** community portal](#orion-community-portal)! 
+To add it in this repository, edit this repository using your github user profile and then make a pull request. Here is a 
+[video explanation](https://www.youtube.com/watch?v=BQF6gdKqiaE&index=3&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH) 
+if you need help with that. 
+If you don't have the image on your computer but only a link, you can temporarily add it to the [image-links](temporary-image-links.md) textfile.
+Please only commit to this repository with images that are owned by you, the public or project itself. It helps if the name are descriptive and, if appropriate, specify the image dimensions.
 
 ### :scissors:Specifications
 * The logo graph is comprised of three 
@@ -28,10 +35,6 @@ with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also 
 | **diagrams-and-infographics** | Roadmaps, algorithmic flowcharts, etc. |
 | **team-and-contributors** | Profiles, mugshots, photos of individuals |
 
-### :two_hearts:Contributing
-If you create awesome visual Constellation related content, consider posting it on the 
-[**Orion** community portal](#orion-community-portal)! 
-To add it in this repository, please make a pull request using your github user profile. Here is a 
-[video explanation](https://www.youtube.com/watch?v=BQF6gdKqiaE&index=3&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH) 
-if you need help with that. If you don't have the image on your computer but only a link, you can temporarily add it to the [image-links](temporary-image-links.md) textfile.
-Please only commit to this repository with images that are owned by you, the public or project itself. It helps if the name are descriptive and, if appropriate, specify the image dimensions.
+More content can be found in the 
+[awesome-constellation](https://github.com/Constellation-Labs/awesome-constellation) 
+resource list. 
