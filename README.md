@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/FjE9pdz.png"></p>
 <p align="center">:art:The image resource repository for Constellation's branding.</p>
 
-In this repository holds Constellation branding images with the logo and lettering, as well as product screenshots, graphics and mugshots. For the different categories, you find content descriptions for all the folders in the table below. 
+This repository holds Constellation branding images with the logo and lettering, as well as product screenshots, graphics and mugshots. For the different categories, you find content descriptions for all the folders in the table below. 
 
 ### :two_hearts:Contributing
 If you create awesome visual Constellation related content, consider posting it on the 
