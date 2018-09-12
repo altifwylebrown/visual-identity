@@ -8,15 +8,10 @@ Here you find branding items with the Constellation logo and lettering, as well 
 resource list. 
 
 ### :scissors:Specifications
-* The logo graph is comprised of 3 
+* The logo graph is comprised of three 
 [hexagons](https://en.wikipedia.org/wiki/Hexagon) 
-with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6, as explained 
-[here](https://www.youtube.com/watch?v=XbGvJpL5OTM&index=1&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH).
-
-* Colors used in our branding are: 
-
-(tbd)
-
+with radii ratio of 1/sqrt(3) and relative rotation angle of pi/6. This is also explained in [this clip](https://www.youtube.com/watch?v=XbGvJpL5OTM&index=1&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH).
+* Colors used in our branding are: (tbd)
 * Explanation of what goes into which folder:
 
 | folder  | content class |
@@ -39,4 +34,4 @@ If you create awesome visual Constellation related content, consider posting it 
 To add it in this repository, please make a pull request using your github user profile. Here is a 
 [video explanation](https://www.youtube.com/watch?v=BQF6gdKqiaE&index=3&list=PL_vIhjXh1UTpRShlXYlItkXPjIS5aWLPH) 
 if you need help with that. If you don't have the image on your computer but only a link, you can temporarily add it to the [image-links](temporary-image-links.md) textfile.
-Please only commit to this repository with images that are owned by you, the public or project itself.
+Please only commit to this repository with images that are owned by you, the public or project itself. It helps if the name are descriptive and, if appropriate, specify the image dimensions.
